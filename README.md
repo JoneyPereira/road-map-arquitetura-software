@@ -11,3 +11,10 @@ Nota de aulas do Treinamento do Zero ao Arquiteto de Software
 - [O que são Sistemas Operacionais?](fundamentos/4-sistemas-operacionais.md)
 - [Qual é a diferença entre linguagem compilada x interpretada?](fundamentos/5-linguagens-compiladas-vs-interpretadas.md)
 - [O que é Linux e qual distro escolher?](fundamentos/6-linux-e-distribuicoes.md)
+
+### Linguagens de Programação
+Esta seção aborda as principais linguagens utilizadas no desenvolvimento de software moderno, com foco em suas características, paradigmas e aplicações práticas.
+
+- [Go](linguagem/1-go.md) - Linguagem moderna com foco em simplicidade, eficiência e concorrência
+- [Kotlin](linguagem/2-kotlin.md) - Linguagem moderna para JVM com recursos avançados e interoperabilidade com Java
+- [PHP](linguagem/3-php.md) - Linguagem versátil para desenvolvimento web com grande ecossistema
